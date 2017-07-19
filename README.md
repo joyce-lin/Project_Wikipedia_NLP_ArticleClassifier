@@ -9,9 +9,9 @@ Python Code for this project can be found in folder "ipynnb"
    Clean the article text using RegEx
 
 #### Part2_2_FeatureEngineering_LSA.ipynb:
-  1. Perform feature engineering using Natural Language Processing techniques - Latent Semantic Analysis (Tfidf and SVD) 
+ 1. Perform feature engineering using Natural Language Processing techniques - Latent Semantic Analysis (Tfidf and SVD) 
   stored models in Redis database from later article pridiction steps
-  2. Plot 2D LSA components to examine how artical vectors cluster in the space using LSA method 
+ 2. Plot 2D LSA components to examine how artical vectors cluster in the space using LSA method 
   
 #### Part3_Predictor_Supervised.ipynb:
    Examine accuracy score on different supervised machine learning models
