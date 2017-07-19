@@ -3,10 +3,10 @@
 Python Code for this project can be found in folder "ipynnb"
 
 #### Wiki_insert_to_MongoDB.py: 
-     A Python script to download about 5,000 articles from 8 categories using Wikipedia API to a Mongo Database
+   A Python script to download about 5,000 articles from 8 categories using Wikipedia API to a Mongo Database
 
 #### Part2_1_PreProcessing_DataClearning.ipynb:
-     Clean the article text using RegEx
+   Clean the article text using RegEx
 
 #### Part2_2_FeatureEngineering_LSA.ipynb:
   1. Perform feature engineering using Natural Language Processing techniques - Latent Semantic Analysis (Tfidf and SVD) 
