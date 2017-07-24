@@ -1,6 +1,6 @@
 ## Predicting Wikipedia Article Categories
 
-This is a project to demostrate how to use Natural Language Processing and Machine Learning techniques to classify articles or paragraphs.  This project is built with Python and my code can be found in folder "ipynb"
+This is a project to demostrate how we can use Natural Language Processing and Machine Learning techniques to classify articles or paragraphs.  This project is built with Python and my code can be found in folder "ipynb"
 
 #### Wiki_insert_to_MongoDB.py: 
    Script to download about 5,000 articles from 8 categories using Wikipedia API to a Mongo Database
