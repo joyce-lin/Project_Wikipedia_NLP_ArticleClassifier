@@ -1,4 +1,4 @@
-### Predicting Wikipedia Article Categories
+## Predicting Wikipedia Article Categories
 
 Python Code for this project can be found in folder "ipynnb"
 
