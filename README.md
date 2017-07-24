@@ -1,9 +1,9 @@
 ## Predicting Wikipedia Article Categories
 
-Python Code for this project can be found in folder "ipynnb"
+This is a project to demostrate how to use Natural Language Processing and Machine Learning techniques to classify articles or paragraphs.  This project is built with Python and my code can be found in folder "ipynb"
 
 #### Wiki_insert_to_MongoDB.py: 
-   A Python script to download about 5,000 articles from 8 categories using Wikipedia API to a Mongo Database
+   Script to download about 5,000 articles from 8 categories using Wikipedia API to a Mongo Database
 
 #### Part2_1_PreProcessing_DataClearning.ipynb:
    Clean the article text using RegEx
@@ -24,4 +24,4 @@ Python Code for this project can be found in folder "ipynnb"
    Create a semantic search engine, where you can input a search term and get a set of articles that are closest to that term, based on  NearestNeighbors algorithm
 
 
-More Details can be found in /doc/Wiki_NLP_ArticleClassifier.pdf
+#### More Details can be found in /doc/Wiki_NLP_ArticleClassifier.pdf
